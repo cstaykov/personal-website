@@ -31,46 +31,51 @@
       "company": "IBM",
       "position": "Software Engineering Intern",
       "website": "https://www.ibm.com",
-      "startDate": "2020-09-01",
-      "endDate": "2020-12-18",
-      "summary": "Worked on cool projects!",
-      "highlights": []
+      "startDate": "2020-09-02",
+      "endDate": "2020-12-02",
+      "summary": "Created an ETL platform for Data Scientists and configured cloud servers and worflows to perfrom ML tasks.",
+      "highlights": [],
+      "picture": "images/work/ibm.webp"
     },
     {
       "company": "Honeywell Aerospace",
       "position": "Software Engineering Intern",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2020-01-01",
-      "endDate": "2020-03-14",
-      "summary": "Worked on cool projects!",
-      "highlights": []
+      "website": "https://aerospace.honeywell.com/en",
+      "startDate": "2020-01-02",
+      "endDate": "2020-03-02",
+      "summary": "Developed a cross-platform mobile app to reduce pre-flight maintenance check times of jets.",
+      "highlights": [],
+      "picture": "images/work/honeywell.webp"
     },
     {
       "company": "CIBC Live Labs",
       "position": "Software Engineering Intern",
-      "website": "",
-      "startDate": "2019-05-01",
-      "endDate": "",
-      "summary": "Worked on cool projects!",
-      "highlights": []
+      "website": "https://medium.com/cibc-live-labs",
+      "startDate": "2019-05-02",
+      "endDate": "2019-08-02",
+      "summary": "Trained a machine learning algorithm to perform object detection and developed an iOS and Android App for it.",
+      "highlights": [],
+      "picture": "images/work/cibc.webp"
     },
     {
       "company": "CIBC Live Labs",
       "position": "Innovation Engineering",
-      "website": "",
-      "startDate": "2018-09-01",
-      "endDate": "",
-      "summary": "Worked on cool projects!",
-      "highlights": []
+      "website": "https://medium.com/cibc-live-labs",
+      "startDate": "2018-09-02",
+      "endDate": "2018-12-02",
+      "summary": "Developed voice banking functionalities for the CIBC iPhone app using SiriKit and Swift.",
+      "highlights": [],
+      "picture": "images/work/cibc.webp"
     },
     {
       "company": "Hibar Systems Ltd. (Tesla Inc.)",
       "position": "Junior Project Manager",
-      "website": "",
-      "startDate": "2018-01-01",
-      "endDate": "",
-      "summary": "My first real work experience.",
-      "highlights": []
+      "website": "http://www.hibar.com",
+      "startDate": "2018-01-02",
+      "endDate": "2018-04-02",
+      "summary": "Led team of 3 on improving inventory logistics a project with 50,000+ components.",
+      "highlights": [],
+      "picture": "images/work/hibar.webp"
     }
   ],
   "education": [

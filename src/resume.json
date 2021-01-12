@@ -2,8 +2,7 @@
   "basics": {
     "name": "Chris Staykov",
     "label": "Systems Design Engineer",
-    "picture": "images/cstaykov.webp",
-    "x_pictureFallback": "images/cstaykov.jpg",
+    "picture": "images/cstaykov.jpg",
     "x_title": "Hey There! Glad you're here. This site is still in progress.",
     "summary": "I'm a 4th year SYDE student.",
     "location": {

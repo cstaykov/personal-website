@@ -35,3 +35,7 @@ html, body {
 .navbar-burger {
     color: #ffffff;
 }
+
+.profilepicture {
+    margin-bottom: 1.5rem;
+}

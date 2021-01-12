@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Chris Staykov",
-    "label": "Systems Design Engineer",
+    "label": "Software Developer",
     "picture": "images/cstaykov.jpg",
-    "x_title": "Hey There! Glad you're here. This site is still in progress.",
-    "summary": "I'm a 4th year SYDE student.",
+    "x_title": "Hey There! Glad you're here.",
+    "summary": "I'm in my 4th year of Systems Design Engineering at the University of Waterloo.",
     "location": {
       "country": "Canada",
       "countryCode": "CA",
@@ -32,7 +32,7 @@
       "website": "https://www.ibm.com",
       "startDate": "2020-09-02",
       "endDate": "2020-12-02",
-      "summary": "Created an ETL platform for Data Scientists and configured cloud servers and worflows to perfrom ML tasks.",
+      "summary": "Developed a platform for Data Scientists to manage their machine learning predictions and automated workflows using IBM Cloud.",
       "highlights": [],
       "picture": "images/work/ibm.webp"
     },
@@ -52,7 +52,7 @@
       "website": "https://medium.com/cibc-live-labs",
       "startDate": "2019-05-02",
       "endDate": "2019-08-02",
-      "summary": "Trained a machine learning algorithm to perform object detection and developed an iOS and Android App for it.",
+      "summary": "Trained a machine learning algorithm to perform object detection and developed an iOS and Android App for users.",
       "highlights": [],
       "picture": "images/work/cibc.webp"
     },
@@ -91,78 +91,7 @@
       ]
     }
   ],
-  "skills": [
-    {
-      "name": "Jenkins",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Continuous Integration",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Scripting",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Containers",
-      "level": "Intermediate",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Cloud",
-      "level": "Basic",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Troubleshooting",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Infrastructure as Code",
-      "level": "Basic",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Object Oriented Programming",
-      "level": "Advanced",
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "Design Patterns",
-      "level": "Intermediate",
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "REST API",
-      "level": "Advanced",
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "Unit Testing",
-      "level": "Intermediate",
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "MongoDB",
-      "level": "Intermediate",
-      "keywords": ["Software Developer"]
-    }
-  ],
+  "skills": [],
   "interests": [
     {
       "name": "Traveller",
